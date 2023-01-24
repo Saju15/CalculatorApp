@@ -1,0 +1,15 @@
+{
+  "name": "calculatorapp",
+  "version": "1.0.0",
+  "description": "Calculator App implementing simple HTTP standard calls to implement REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saju Vijayakanthan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
